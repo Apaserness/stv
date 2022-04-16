@@ -1,6 +1,3 @@
-title: BSPD
-layout: template
-filename: index.md
 
 The BSPD is a non-programmable circuit which is embedded in the Tractive System Accumulator Container that is used to open the shutdown circuit when hard breaking occurs for more than 500 ms. The BSPD's purpose is to maintain that the brake system is correct. This is calculated by comparing the force applied to the brake pedal as well as the power supplied to the motors. When more than five kilowatts of power are delivered to the motors, the BSPD will open the shutdown circuit. A DC circuit current sensor can be used for measuring the power delivery. Furthermore, the BSPD will get triggered if the throttle position is more than 25% higher than the idle position. The BSPD gets supplied directly from LVMS (Low Voltage Master Switch).  
 
