@@ -1,4 +1,12 @@
-# BSPD
+# Brake System Plausibility Device
+
+Background
+=============
+Scuderia Tor Vergata is the official Formula SAE Team of the University of Rome Tor Vergata, based in Rome, Italy.
+
+Founded in 2006, over the years Scuderia has been run by hundreds of students with one common goal, that of sharing and applying the technical and theoretical knowledge learned during their studies in a challenging project.
+
+A total of more than 6 Formula SAE prototypes designed and fabricated, which participated in more than 10 Formula SAE events across Europe.
 
 Electronic design
 =============
